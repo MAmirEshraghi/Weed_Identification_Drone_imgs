@@ -1,0 +1,6 @@
+train: /home/robben/Desktop/PARTI/WEED_IDENT/cropped_data/Mint2/Drone/bboxscale0.75/overlap0.2/crops_with_annotations_800/train/images
+val: /home/robben/Desktop/PARTI/WEED_IDENT/cropped_data/Mint2/Drone/bboxscale0.75/overlap0.2/crops_with_annotations_800/val/images
+test: /home/robben/Desktop/PARTI/WEED_IDENT/cropped_data/Mint2/Drone/bboxscale0.75/overlap0.2/crops_with_annotations_800/test/images
+
+nc: 1
+names: ['weed']

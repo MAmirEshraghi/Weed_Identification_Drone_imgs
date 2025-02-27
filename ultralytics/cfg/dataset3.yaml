@@ -1,0 +1,6 @@
+train: /home/robben/Desktop/PARTI/WEED_IDENT/cropped_data/Mint3/Drone/02/split_data/train/images
+val: /home/robben/Desktop/PARTI/WEED_IDENT/cropped_data/Mint3/Drone/02/split_data/valid/images
+test: /home/robben/Desktop/PARTI/WEED_IDENT/cropped_data/Mint3/Drone/02/split_data/test/images
+
+nc: 1
+names: ['weed']
